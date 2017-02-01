@@ -112,3 +112,12 @@ which is replaced with the above way to compute the length of an array.
 
 There are many other preprocessor directives, but these are the most 
 useful to the beginner C programmer. 
+
+'Homework'
+----------
+
+Pick your favorite sorting algorithm, and implement it in Java (or a 
+similar high-level language) as a reference,  and then implement it in C. 
+Feel free to reuse as much code from here as possible, just pick a 
+different algorithm. Choosing harder algorithms will teach you 
+more about the languages. 
